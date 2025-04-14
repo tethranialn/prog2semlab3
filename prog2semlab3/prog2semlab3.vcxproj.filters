@@ -2,5 +2,15 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="spisok.cpp" />
+    <ClCompile Include="def.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="in.txt" />
+    <Text Include="out.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="spisok.h" />
+    <ClInclude Include="functions.h" />
   </ItemGroup>
 </Project>

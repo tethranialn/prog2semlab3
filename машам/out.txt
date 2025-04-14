@@ -1,0 +1,36 @@
+---ДАННЫЕ ИЗ ФАЙЛА---
+Заданный элемент для удаления: "This is a test1"
+-> This is a test1
+-> Hello world
+-> Hello worldHello worldHello worldHello world
+-> Hello world Hello world3
+-> This is a test
+-> This is a test
+-> 
+-> Hello world
+-> Hello world Hello world
+-> Programming isss
+-> dfgdsfgfd
+-> 
+-> Hello worl
+-> Hello world
+
+Всего считано строк: 14
+
+---РЕЗУЛЬТАТ ОБРАБОТКИ---
+---КОНТРОЛЬНЫЙ ВЫВОД---
+Количество элементов в списке: 13
+Содержимое списка:
+->Hello world
+->Hello worldHello worldHello worldHello world
+->Hello world Hello world3
+->This is a test
+->This is a test
+->
+->Hello world
+->Hello world Hello world
+->Programming isss
+->dfgdsfgfd
+->
+->Hello worl
+->Hello world

@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00A935E8-B25D-4A04-86BC-48F452AE2D92}|\u043C\u0430\u0448\u0430\u043C.vcxproj|C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00A935E8-B25D-4A04-86BC-48F452AE2D92}|\u043C\u0430\u0448\u0430\u043C.vcxproj|solutionrelative:List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A935E8-B25D-4A04-86BC-48F452AE2D92}|\u043C\u0430\u0448\u0430\u043C.vcxproj|C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\main (3).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00A935E8-B25D-4A04-86BC-48F452AE2D92}|\u043C\u0430\u0448\u0430\u043C.vcxproj|solutionrelative:main (3).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A935E8-B25D-4A04-86BC-48F452AE2D92}|\u043C\u0430\u0448\u0430\u043C.vcxproj|C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\inp.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{00A935E8-B25D-4A04-86BC-48F452AE2D92}|\u043C\u0430\u0448\u0430\u043C.vcxproj|solutionrelative:inp.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A935E8-B25D-4A04-86BC-48F452AE2D92}|\u043C\u0430\u0448\u0430\u043C.vcxproj|C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\FileProcessing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00A935E8-B25D-4A04-86BC-48F452AE2D92}|\u043C\u0430\u0448\u0430\u043C.vcxproj|solutionrelative:FileProcessing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A935E8-B25D-4A04-86BC-48F452AE2D92}|\u043C\u0430\u0448\u0430\u043C.vcxproj|C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\out (2).txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{00A935E8-B25D-4A04-86BC-48F452AE2D92}|\u043C\u0430\u0448\u0430\u043C.vcxproj|solutionrelative:out (2).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A935E8-B25D-4A04-86BC-48F452AE2D92}|\u043C\u0430\u0448\u0430\u043C.vcxproj|C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00A935E8-B25D-4A04-86BC-48F452AE2D92}|\u043C\u0430\u0448\u0430\u043C.vcxproj|solutionrelative:List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A935E8-B25D-4A04-86BC-48F452AE2D92}|\u043C\u0430\u0448\u0430\u043C.vcxproj|C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\push_back.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00A935E8-B25D-4A04-86BC-48F452AE2D92}|\u043C\u0430\u0448\u0430\u043C.vcxproj|solutionrelative:push_back.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A935E8-B25D-4A04-86BC-48F452AE2D92}|\u043C\u0430\u0448\u0430\u043C.vcxproj|C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\printFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00A935E8-B25D-4A04-86BC-48F452AE2D92}|\u043C\u0430\u0448\u0430\u043C.vcxproj|solutionrelative:printFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A935E8-B25D-4A04-86BC-48F452AE2D92}|\u043C\u0430\u0448\u0430\u043C.vcxproj|C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\FileProcessing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00A935E8-B25D-4A04-86BC-48F452AE2D92}|\u043C\u0430\u0448\u0430\u043C.vcxproj|solutionrelative:FileProcessing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "out (2).txt",
+              "DocumentMoniker": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\out (2).txt",
+              "RelativeDocumentMoniker": "out (2).txt",
+              "ToolTip": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\out (2).txt",
+              "RelativeToolTip": "out (2).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-10T18:21:59.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "inp.txt",
+              "DocumentMoniker": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\inp.txt",
+              "RelativeDocumentMoniker": "inp.txt",
+              "ToolTip": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\inp.txt",
+              "RelativeToolTip": "inp.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-10T18:22:01.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main (3).cpp",
+              "DocumentMoniker": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\main (3).cpp",
+              "RelativeDocumentMoniker": "main (3).cpp",
+              "ToolTip": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\main (3).cpp",
+              "RelativeToolTip": "main (3).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-10T18:21:37.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.h",
+              "DocumentMoniker": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\List.h",
+              "RelativeDocumentMoniker": "List.h",
+              "ToolTip": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\List.h",
+              "RelativeToolTip": "List.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-10T18:21:37.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "List.cpp",
+              "DocumentMoniker": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\List.cpp",
+              "RelativeDocumentMoniker": "List.cpp",
+              "ToolTip": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\List.cpp",
+              "RelativeToolTip": "List.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-10T18:21:36.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "push_back.cpp",
+              "DocumentMoniker": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\push_back.cpp",
+              "RelativeDocumentMoniker": "push_back.cpp",
+              "ToolTip": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\push_back.cpp",
+              "RelativeToolTip": "push_back.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-10T18:21:39.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "printFile.cpp",
+              "DocumentMoniker": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\printFile.cpp",
+              "RelativeDocumentMoniker": "printFile.cpp",
+              "ToolTip": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\printFile.cpp",
+              "RelativeToolTip": "printFile.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-10T18:21:38.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileProcessing.h",
+              "DocumentMoniker": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\FileProcessing.h",
+              "RelativeDocumentMoniker": "FileProcessing.h",
+              "ToolTip": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\FileProcessing.h",
+              "RelativeToolTip": "FileProcessing.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-10T18:21:34.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileProcessing.cpp",
+              "DocumentMoniker": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\FileProcessing.cpp",
+              "RelativeDocumentMoniker": "FileProcessing.cpp",
+              "ToolTip": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\\u043C\u0430\u0448\u0430\u043C\\FileProcessing.cpp",
+              "RelativeToolTip": "FileProcessing.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-10T18:21:32.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
