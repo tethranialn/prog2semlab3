@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\prog2semlab3\\",
+  "WorkspaceRootPath": "C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\prog2semlab3\\functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|solutionrelative:functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\prog2semlab3\\spisok.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|solutionrelative:spisok.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\prog2semlab3\\spisok.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|solutionrelative:spisok.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\prog2semlab3\\def.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|solutionrelative:def.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\prog2semlab3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\prog2semlab3\\out.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\out.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|solutionrelative:out.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\prog2semlab3\\in.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\in.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|solutionrelative:in.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\def.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|solutionrelative:def.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\spisok.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|solutionrelative:spisok.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\spisok.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|solutionrelative:spisok.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,39 +50,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\prog2semlab3\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\prog2semlab3\\main.cpp",
+              "ToolTip": "C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-30T10:22:04.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "spisok.h",
-              "DocumentMoniker": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\prog2semlab3\\spisok.h",
+              "DocumentMoniker": "C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\spisok.h",
               "RelativeDocumentMoniker": "spisok.h",
-              "ToolTip": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\prog2semlab3\\spisok.h",
+              "ToolTip": "C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\spisok.h",
               "RelativeToolTip": "spisok.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-14T10:27:15.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "spisok.cpp",
-              "DocumentMoniker": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\prog2semlab3\\spisok.cpp",
+              "DocumentMoniker": "C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\spisok.cpp",
               "RelativeDocumentMoniker": "spisok.cpp",
-              "ToolTip": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\prog2semlab3\\spisok.cpp",
+              "ToolTip": "C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\spisok.cpp",
               "RelativeToolTip": "spisok.cpp",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAEsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAuwHgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-14T10:27:22.132Z",
               "EditorCaption": ""
@@ -91,9 +91,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "functions.h",
-              "DocumentMoniker": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\prog2semlab3\\functions.h",
+              "DocumentMoniker": "C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\functions.h",
               "RelativeDocumentMoniker": "functions.h",
-              "ToolTip": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\prog2semlab3\\functions.h",
+              "ToolTip": "C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\functions.h",
               "RelativeToolTip": "functions.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -104,37 +104,37 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "def.cpp",
-              "DocumentMoniker": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\prog2semlab3\\def.cpp",
+              "DocumentMoniker": "C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\def.cpp",
               "RelativeDocumentMoniker": "def.cpp",
-              "ToolTip": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\prog2semlab3\\def.cpp",
+              "ToolTip": "C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\def.cpp",
               "RelativeToolTip": "def.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-14T10:32:39.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "in.txt",
-              "DocumentMoniker": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\prog2semlab3\\in.txt",
+              "DocumentMoniker": "C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\in.txt",
               "RelativeDocumentMoniker": "in.txt",
-              "ToolTip": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\prog2semlab3\\in.txt",
+              "ToolTip": "C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\in.txt",
               "RelativeToolTip": "in.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-04-14T10:18:33.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "out.txt",
-              "DocumentMoniker": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\prog2semlab3\\out.txt",
+              "DocumentMoniker": "C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\out.txt",
               "RelativeDocumentMoniker": "out.txt",
-              "ToolTip": "C:\\Users\\chivo\\OneDrive\\Documents\\GitHub\\prog2semlab3\\prog2semlab3\\out.txt",
+              "ToolTip": "C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\out.txt",
               "RelativeToolTip": "out.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-04-14T10:18:55.686Z",
               "EditorCaption": ""

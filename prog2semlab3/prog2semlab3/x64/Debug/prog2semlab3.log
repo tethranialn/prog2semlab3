@@ -1,2 +1,6 @@
-﻿  spisok.cpp
-  prog2semlab3.vcxproj -> C:\Users\chivo\OneDrive\Documents\GitHub\prog2semlab3\prog2semlab3\x64\Debug\prog2semlab3.exe
+﻿  def.cpp
+  main.cpp
+C:\Users\tethranialn.DESKTOP-QE28BKQ\source\repos\prog2semlab3\prog2semlab3\main.cpp(7,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  spisok.cpp
+  Создание кода...
+  prog2semlab3.vcxproj -> C:\Users\tethranialn.DESKTOP-QE28BKQ\source\repos\prog2semlab3\prog2semlab3\x64\Debug\prog2semlab3.exe

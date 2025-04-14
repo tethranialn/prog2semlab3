@@ -5,21 +5,16 @@ file data:
 -> dont read
 -> this text
 -> or actually you can try
--> okay wow
--> you did it
--> okay wow
 -> 
--> wait wait wait
--> okay stop
+-> you did it
+-> 
+-> wait wa
 
-number of readed lines: 9
-marker not found
+number of readed lines: 7
 
 result of processing:
 
 contents of the list:
 
-->okay wow
-->okay wow
 
-number of elements in the list: 2
+number of elements in the list: 0
