@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\in.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|solutionrelative:in.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|solutionrelative:functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\out.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|solutionrelative:out.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\def.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|solutionrelative:def.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\in.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|solutionrelative:in.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|solutionrelative:functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\def.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|solutionrelative:def.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A78F27D-B142-4BF8-8A6B-53680DC7F95E}|prog2semlab3.vcxproj|C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\spisok.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -89,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "functions.h",
               "DocumentMoniker": "C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\functions.h",
               "RelativeDocumentMoniker": "functions.h",
@@ -102,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "def.cpp",
               "DocumentMoniker": "C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\def.cpp",
               "RelativeDocumentMoniker": "def.cpp",
@@ -115,13 +115,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "in.txt",
               "DocumentMoniker": "C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\in.txt",
               "RelativeDocumentMoniker": "in.txt",
-              "ToolTip": "C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\in.txt*",
-              "RelativeToolTip": "in.txt*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\in.txt",
+              "RelativeToolTip": "in.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-04-14T10:18:33.141Z",
               "EditorCaption": ""
@@ -134,7 +134,7 @@
               "RelativeDocumentMoniker": "out.txt",
               "ToolTip": "C:\\Users\\tethranialn.DESKTOP-QE28BKQ\\source\\repos\\prog2semlab3\\prog2semlab3\\out.txt",
               "RelativeToolTip": "out.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-04-14T10:18:55.686Z",
               "EditorCaption": ""
